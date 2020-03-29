@@ -1,0 +1,22 @@
+{
+    "offers": [
+        {
+            "offerId": 1,
+            "contractId": "1",
+            "offerName": "Offer1",
+            "contractName": "Contract1"
+        },
+        {
+            "offerId": 2,
+            "contractId": "1",
+            "offerName": "Offer2",
+            "contractName": "Contract1"
+        },
+        {
+            "offerId": 3,
+            "contractId": "2",
+            "offerName": "Offer3",
+            "contractName": "Contract2"
+        }
+    ]
+}

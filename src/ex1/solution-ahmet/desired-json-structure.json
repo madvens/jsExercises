@@ -1,0 +1,28 @@
+{
+	"contracts": [
+		{
+			"contractId": "1",
+			"contractName": "Contract1",
+			"offers": [
+				{
+					"offerId": 1,
+					"offerName": "Offer1"
+				},
+				{
+					"offerId": 2,
+					"offerName": "Offer2"
+				}
+			]
+		},
+		{
+			"contractId": "2",
+			"contractName": "Contract2",
+			"offers": [
+				{
+					"offerId": 3,
+					"offerName": "Offer3"
+				}
+			]
+		}
+	]
+}
